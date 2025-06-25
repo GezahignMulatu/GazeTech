@@ -1,0 +1,1 @@
+export default function Videos() { return <h1>Video Section</h1>; }
